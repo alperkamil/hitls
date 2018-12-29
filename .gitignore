@@ -1,0 +1,6 @@
+
+**/*.pkl
+**/config.py
+**/*.model
+**/__pycache__/*
+**/.ipynb_checkpoints/*
